@@ -1,0 +1,18 @@
+.canvas{
+    margin-left: 520px;
+}
+.score-container{
+    margin-top: 90px;
+    margin-left:  620px; 
+    height: 40px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    padding-bottom: 25px;
+
+    border-radius: 10px;
+    
+}
+.score{
+    margin-left:74px;
+}
